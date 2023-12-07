@@ -29,7 +29,7 @@ const FaucetScreen = () => {
           </li>
         </div>
       </div>
-      <div className="text-red-500">
+      <div className="text-red-400">
         I Will Update the list if i find anyother working goerli faucet sites.
       </div>
     </div>

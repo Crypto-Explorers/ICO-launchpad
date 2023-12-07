@@ -6,7 +6,7 @@ const ErrorScreen = () => {
     <img
       src={ErrorImage}
       alt="Error Page"
-      className="w-screen h-[98%] bg-cover"
+      className="w-screen h-[96%] bg-cover"
     />
   );
 };
